@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Станислав Кабанов](https://up.htmlacademy.ru/ecmascript/11/user/921765).
-* Наставник: `Неизвестно`.
+* Наставник: [Без наставника].
 
 ---
 
